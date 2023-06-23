@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Classification -- Predicting Customer Churn
 
 ## Introduction
@@ -188,3 +189,7 @@ Key Insights and Conclusion
     challenges, and way forward.
 
 -   **Fair:** Provided only key insights as conclusion.
+=======
+# customer-churn-classification-project
+A machine learning project to determine the churn likelihood class of new customers
+>>>>>>> cd39776b1a9e7cf90c4d852995a34ea8350d7804
